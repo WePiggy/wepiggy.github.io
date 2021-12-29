@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([[9],{Dtc0:function(n,e,t){"use strict";t.r(e);var a=t("q1tI"),o=t.n(a),r=t("XfOM"),c=t.n(r);function s(n){return window.router.push("/markets"),o.a.createElement("div",{className:c.a.container})}s.defaultProps={},e["default"]=o.a.memo(s)},XfOM:function(n,e,t){n.exports={container:"rRDCWTNT"}}}]);
